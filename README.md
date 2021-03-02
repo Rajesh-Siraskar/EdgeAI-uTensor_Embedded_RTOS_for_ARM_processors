@@ -3,7 +3,10 @@
 ## Embedded RTOS C++ programming for the ARM processor
 ## uTensor
 
-Use of uTensor for building ML models for edge devices. Emedded RTOS C++ programming
+1. Use of uTensor for building ML models for edge devices. Emedded RTOS C++ programming
+2. uTensor Deep Neural Network Model
+3. Trains a model on the desktop and deploys on the ARM processor
+4. Can perform predictive maintenance
 
 ### uTensor: 
 https://utensor.github.io/website/
